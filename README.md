@@ -3,6 +3,6 @@ This repository contains projects I built while completing a Next.js course on U
 
 ## 📄 Certificate of Completion
 
-![Certificate Preview](./certificate.jpg)
+![Certificate Preview](./certificate.png)
 
 👉 [View Full Certificate (PDF)](./Certificate.pdf)
